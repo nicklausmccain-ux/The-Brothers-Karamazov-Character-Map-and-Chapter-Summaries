@@ -3,6 +3,8 @@
 This project is **based on** the repository `schoobani/novel-graph` (original author: Schoobani).
 It started as a codebase merge and is being extended to support chapter-by-chapter evolution, reader-first navigation, and thematic styling.
 Upstream: https://github.com/schoobani/novel-graph
+Note: No upstream LICENSE file was present at the time of the merge; attribution is provided and licensing will be updated if upstream adds one.
+
 
 
 # Novel Graph  
