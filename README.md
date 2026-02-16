@@ -1,6 +1,6 @@
 ## Attribution
 
-This project is **based on** the open-source repository `schoobani/novel-graph` (original author: Schoobani).
+This project is **based on** the repository `schoobani/novel-graph` (original author: Schoobani).
 It started as a codebase merge and is being extended to support chapter-by-chapter evolution, reader-first navigation, and thematic styling.
 Upstream: https://github.com/schoobani/novel-graph
 
