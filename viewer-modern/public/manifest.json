@@ -1,0 +1,19 @@
+{
+  "name": "The Brothers Karamazov — Novel Graph",
+  "short_name": "Novel Graph",
+  "description": "Interactive chapter-by-chapter character relationship graph for Dostoevsky's The Brothers Karamazov.",
+  "start_url": "/novel-character-relationship-map/",
+  "scope": "/novel-character-relationship-map/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1a1612",
+  "theme_color": "#1a1612",
+  "icons": [
+    {
+      "src": "dostoevsky.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
