@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // GitHub Pages deploys to /<repo-name>/ subpath
-  base: '/novel-character-relationship-map/',
+  base: '/The-Brothers-Karamazov-Character-Map-and-Chapter-Summaries/',
 })
